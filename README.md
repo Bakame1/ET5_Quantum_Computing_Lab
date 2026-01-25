@@ -12,4 +12,4 @@ TP 4: Transformée de Fourier Quantique (QFT) [![Ouvrir dans Colab](https://cola
 
 
 
-LIEN GIT PROF : github.com/oceko/QC_polytech/
+TP crées par : github.com/oceko/QC_polytech/
